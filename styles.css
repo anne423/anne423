@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(122, 223, 236) !important;
+}
+
+footer {
+    background-color: rgb(183, 250, 255)
+}
+
+.sobre,
+.sobre nos {
+    width: 43,33%;
+    float: left;
+}
+
+.nossos projetos {
+    list-style-type: rgb(96, 78, 196);
+    padding: 50%;
+}
+
+.menu li {
+    display: inline;
+    margin: right 15px;
+}
+
+.menu a {
+    text-decoration: rgb(132, 108, 189);
+    color: 888px;
+}
+
+.contato p {
+    margin: 5px;
+}
